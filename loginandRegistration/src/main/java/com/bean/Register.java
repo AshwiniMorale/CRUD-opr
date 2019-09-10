@@ -23,6 +23,7 @@ public class Register {
 	String mob;
 
 	String varun = "Hi this is my first change in my BranV";
+	String varun1 = "Hi this is my first change in my BranV";
 
 	public int getId() {
 		return id;
