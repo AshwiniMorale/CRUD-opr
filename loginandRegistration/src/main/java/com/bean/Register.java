@@ -22,8 +22,7 @@ public class Register {
 	@Column
 	String mob;
 
-	String varun = "Hi this is my first change in my BranV";
-	String varun1 = "Hi this is my first change in my BranV";
+	String varun = "Hi this is my first change in my BranchV";
 
 	public int getId() {
 		return id;
